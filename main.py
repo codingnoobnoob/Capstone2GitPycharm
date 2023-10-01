@@ -19,3 +19,5 @@ print("hello world update on local master branch")
 print("hello world update2 on github branch only")
 
 print("Update in local [C]")
+
+print("Update in local 팀장")
